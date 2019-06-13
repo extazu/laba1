@@ -1,0 +1,60 @@
+#rectangle {
+    width: 290px;
+    height: 110px;
+    background:transparent;
+    border: 2px solid black;
+    position: relative;
+    left: 350px;
+    top: 50px;
+}
+#rectangle2{
+    width: 290px;
+    height: 10px;
+    background:transparent;
+    border: #dad8ff;
+    top: 50px;
+}
+#rectangle3{
+    width: 290px;
+    height: 110px;
+    background:transparent;
+    border: 2px solid black;
+    position: relative;
+    left: 350px;
+    top: 50px;
+
+}
+#rectangle4{
+    width: 290px;
+    height: 10px;
+    background:transparent;
+    border: #dad8ff;
+    top: 50px;
+}
+#rectangle5 {
+
+    width: 290px;
+    height: 110px;
+    background:transparent;
+    border: 2px solid black;
+    position: relative;
+    left: 350px;
+    top: 50px;
+}
+#rectangle6{
+    width: 290px;
+    height: 10px;
+    background:transparent;
+    border: #dad8ff;
+    top: 50px;
+}
+#rectangle7{
+
+    width: 590px;
+    height: 110px;
+    background:transparent;
+    border: 2px solid black;
+    position: relative;
+    left: 350px;
+    top: 50px;
+}
